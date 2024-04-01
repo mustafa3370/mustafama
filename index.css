@@ -169,7 +169,12 @@ footer .copy {
   font-weight: 400;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 500px) {
+  .txtp {
+    font-size: 25px;
+    width: 100%;
+    padding-top: 25px;
+  }
   .txt {
     color: white;
     text-align: center;
@@ -180,6 +185,6 @@ footer .copy {
     transform: translate(-50%, -50%);
   }
   .fonttxt {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 }
