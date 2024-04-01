@@ -179,4 +179,7 @@ footer .copy {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  .fonttxt {
+    font-size: 2rem;
+  }
 }
